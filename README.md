@@ -43,6 +43,11 @@ This a well balanced book and I've found it contains the right amount of theory 
 
 #### Module 2 (Under construction :construction:)
 
+- [Chapter 11 - Alexandria](./module_02/chapter_11.md) 
+- [Chapter 12 - Alexandria: Setup Time](./module_02/chapter_12.md)
+- [Chapter 13 - Adding Books and Authors](./module_02/chapter_13.md)
+- [Chapter 14 - Exposing the Books Resource](./module_02/chapter_14.md)
+
 ...
 
 ### Suggestions?
